@@ -37,7 +37,6 @@
 
 ## 🌱 Currently Learning
 
-* 🧩 System Design Fundamentals
 * 🔐 Authentication & Authorization (JWT, OAuth)
 * ⚙️ Backend Architecture
 * 🌍 MERN Stack Deep Dive
